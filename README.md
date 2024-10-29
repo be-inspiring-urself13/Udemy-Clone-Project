@@ -10,7 +10,7 @@ Home Page 🏠: Mimics the Udemy homepage layout, with course categories, a sear
 
 Course Listing 📋: A clean, organized display of courses, including sample thumbnails, titles, and pricing.
 
-Course Details Page 📖: Detailed page layout for individual courses, including descriptions, ratings, and course content structure.
+Course Details Paghttps://github.com/be-inspiring-urself13/Udemy-Clone-Projecte 📖: Detailed page layout for individual courses, including descriptions, ratings, and course content structure.
 
 Cart and Checkout Layouts 🛒💳: Basic design for adding courses to a cart and checking out.
 
